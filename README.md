@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sarvan Vel
+- 👋 Hi, I’m Sarvan
 
 
 <!---
